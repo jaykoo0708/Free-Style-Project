@@ -10,11 +10,8 @@ This app requires the patients to have access to an API key from the AirNow. The
 
 Prerequisites
 
-This app was designed for Python 3 and requires some python packages. The app uses: XXX
+This app was designed for Python 3 and requires some python packages. The app uses: csv, dotenv, json, os, pdb, requests, datetime
 
-Contributing
-
-XXX
 
 Author
 
